@@ -22,11 +22,7 @@ public class  Ejercicio1{
 			int resta= no1-no2-no3;
 			System.out.println("El segundo valor es mayor ");
 			System.out.println("El resultado de la resta es: "+resta);
-		}else{
-			int multi= no1*no2*no3;
-			System.out.println("El Tercer valor es mayor ");
-			System.out.println("El resultado de la multiplicacion es: "+multi);
-		}
 		}
 	}
+}
 }
